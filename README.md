@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Faiz 👋
 
-<!--
-**Faiz-l/Faiz-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Forward Deployed Engineer** building real solutions for real customers.
 
-Here are some ideas to get you started:
+## What I do
+- 🚀 Turn customer problems into working software
+- 🤖 Build LLM-powered apps and AI agents
+- 🤝 Work directly with users to get things done
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I use
+`Python` · `FastAPI` · `LangChain` · `APIs` · `Git`
+
+## Let's connect
+- 📫 Email: faizmangal807@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/faiz-muhammad-99bb9643a
